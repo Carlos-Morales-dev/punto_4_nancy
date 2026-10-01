@@ -1,0 +1,6 @@
+{
+  "name": "Android Security & Cifrado - Punto 4",
+  "description": "Laboratorio interactivo y simulador de Cifrado con EncryptedSharedPreferences vs Almacenamiento Externo, ADB y Device File Explorer para el Punto 4 de persistencia en Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Security &amp; Cifrado - Punto 4</string>
+    <string name="app_short_name">SecureVault</string>
+    <string name="tab_vault">Bóveda Cifrada</string>
+    <string name="tab_explorer">Device Explorer</string>
+    <string name="tab_terminal">Terminal ADB</string>
+    <string name="tab_architecture">Arquitectura</string>
+    <string name="tab_source">Código Fuente</string>
+    <string name="tab_report">Informe</string>
+    <string name="tab_guide">Guía Lab</string>
+    <string name="btn_save_encrypted">Guardar con AES-256 (Keystore)</string>
+    <string name="btn_save_insecure">Guardar Inseguro en SD (Texto Plano)</string>
+    <string name="btn_new_note">Nueva Nota</string>
+    <string name="btn_clear_external">Borrar Archivo Externo</string>
+    <string name="title_vault">Bóveda de Notas Confidenciales</string>
+    <string name="desc_vault">Persistencia en Android: EncryptedSharedPreferences vs Almacenamiento Externo</string>
+</resources>
